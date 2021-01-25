@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bba9a8ec-f120-403c-8482-67acd109830d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k0WrzHzloCvIZDaiEIYPh4eJBU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wypozyczalnia" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/walidacja/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bba9a8ec-f120-403c-8482-67acd109830d" name="Default Changelist" comment="" />
+      <created>1604838191479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604838191479</updated>
+      <workItem from="1604838192515" duration="612000" />
+      <workItem from="1604918474919" duration="153000" />
+      <workItem from="1604918763816" duration="25000" />
+      <workItem from="1604918809984" duration="6804000" />
+      <workItem from="1604925778730" duration="193000" />
+      <workItem from="1604926019008" duration="2380000" />
+      <workItem from="1605053225279" duration="241000" />
+      <workItem from="1605221218227" duration="15000" />
+      <workItem from="1605526332966" duration="1351000" />
+      <workItem from="1605627233520" duration="181000" />
+      <workItem from="1605630808379" duration="12000" />
+      <workItem from="1605631113888" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="383" width="643" height="464" key="#Notifications" timestamp="1605221223864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" width="643" height="464" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1605221223864" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605631126512">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605631126512" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604918787984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604918787984" />
+    <state x="667" y="76" width="585" height="888" key="find.popup" timestamp="1604926727278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="76" width="585" height="888" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604926727278" />
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup" timestamp="1604922544429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="670" height="58" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604922544429" />
+  </component>
+</project>

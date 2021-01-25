@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>formularz z walidacja</title>
+    <link rel="stylesheet" href="main.css">
+    <script src="script.js"></script>
+</head>
+<body>
+
+<div class="box">
+    <div class="srodek">
+        <div id="register">
+            <span class="text">Register</span>
+        </div>
+
+        <p class="text1">Create your account. It's free and only takes a minute.</p>
+        <form onsubmit="return false" method="post">
+            <input type="text" id="fname" class="input-text" placeholder="First Name">
+            <input type="text" id="lname" class="input-text" placeholder="Last Name"><br>
+            <input type="text" id="email" class="input-text" placeholder="Email"><br>
+            <input type="password" id="password" class="input-text" placeholder="Password"><br>
+            <input type="password" id="confirmpassword" class="input-text" placeholder="Confirm Password"><br>
+            <div id="checkbox">
+                <input type="checkbox" id="checkbox">
+                <a id="text">I accept the <a target="_blank" class="external"
+                                              href="https://policies.google.com/terms?hl=en-US">Terms of Use</a> & <a
+                        target="_blank" class="external" href="https://policies.google.com/privacy?hl=en-US">Privacy
+                    Policy</a></a><br>
+            </div>
+            <input type="submit" onclick="validateForm()" id="button" value="Register Now">
+        </form>
+    </div>
+</div>
+
+
+</body>
+</html>
